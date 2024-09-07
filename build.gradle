@@ -5,7 +5,7 @@ plugins {
     id "run.halo.plugin.devtools" version "0.1.1"
 }
 
-group 'run.halo.starter'
+group 'top.xiaojiang233.halocloudmusic'
 sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
